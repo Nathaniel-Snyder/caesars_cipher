@@ -1,2 +1,2 @@
-# ceasers_cipher
+# caesars_cipher
 The Odin Project - Ruby Building Blocks
